@@ -1,2 +1,2 @@
 # Fake_News_detection
-The project is to classify news in FAKE or REAL using neural networks 
+The project is to classify text news in FAKE or REAL using neural networks 
